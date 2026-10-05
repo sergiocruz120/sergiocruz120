@@ -84,10 +84,10 @@ Atualmente, estou focado em aprofundar meus conhecimentos em **arquitetura de so
 ---
 
 ### 📜 Certificações
-
-- 🎓 **Web Moderno com JavaScript, Vue.js, Node.js e MySQL** – 97h (2023)
-- 🧠 **Algoritmos e Lógica de Programação** – 16h (2022)
-- 💻 **Informática Intermediária** – Windows, Linux e Pacote Office (2021)
+- **Análise e Desenvolvimento de Sistemas** - (Concluido)
+- **Web Moderno com JavaScript, Vue.js, Node.js e MySQL** – 97h (2023)
+- **Algoritmos e Lógica de Programação** – 16h (2022)
+- **Informática Intermediária** – Windows, Linux e Pacote Office (2021)
 
 ---
 
