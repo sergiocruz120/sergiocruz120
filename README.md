@@ -102,6 +102,77 @@ Atualmente, estou focado em aprofundar meus conhecimentos em **arquitetura de so
 
 ---
 
+# RealWorld Vue 3 — Fork com Melhorias
+
+> Este repositório é um **fork** do [RealWorld Vue 3](https://github.com/realworld-apps/vue-realworld-example-app), com **10 refatorações e melhorias** implementadas seguindo o fluxo profissional de desenvolvimento (branches, PRs, CI/CD).
+
+---
+
+## 🎯 Sobre Este Fork
+
+Este fork foi criado para **praticar e demonstrar** habilidades de desenvolvimento frontend com Vue 3, incluindo:
+
+- Fluxo profissional de Git (branches, commits semânticos, PRs, merges).
+- Uso de CI/CD (GitHub Actions) com checks de formatação, testes E2E e segurança.
+- Identificação, reprodução e correção de bugs.
+- Aplicação de boas práticas (props defaults, `:key`, `try/catch`).
+- Melhorias de UX (feedback visual, prevenção de cliques duplos).
+
+---
+
+## 🛠️ Melhorias Implementadas
+
+Todas as melhorias foram implementadas via Pull Requests, seguindo o fluxo profissional. Cada uma tem uma branch, commits semânticos e descrição detalhada.
+
+### 🐛 Correções de Bugs
+
+| # | Descrição | PR |
+| :--- | :--- | :--- |
+| 1 | Removida prop `isPreview` órfã do `VArticlePreview.vue` | [#1](link_do_pr) |
+| 2 | Substituído `<a href="">` por `<router-link>` no `Comment.vue` (evitava recarregamento) | [#4](link_do_pr) |
+| 3 | Corrigido `toggleFollow` no `ArticleActions.vue` (usava `profile.username` em vez de `article.author.username`) | [#5](link_do_pr) |
+
+### ⚡ Boas Práticas
+
+| # | Descrição | PR |
+| :--- | :--- | :--- |
+| 4 | Uso de `:key="tag"` em vez de `:key="index"` no `TagList.vue` | [#2](link_do_pr) |
+| 5 | Adicionado `default: () => []` na prop `tags` do `TagList.vue` | [#3](link_do_pr) |
+| 6 | Padronizado uso de `RwvListErrors` no `Login.vue` e `Register.vue` | [#10](link_do_pr) |
+
+### 🛡️ Robustez e Performance
+
+| # | Descrição | PR |
+| :--- | :--- | :--- |
+| 7 | Adicionado `try/catch` em 9 actions da `articleStore` (tratamento de erro) | [#8](link_do_pr) |
+| 8 | Corrigido `watch(route)` no `Profile.vue` (evita fetch desnecessário ao trocar de aba) | [#6](link_do_pr) |
+| 9 | Adicionado `watch` no `ArticleEdit.vue` (busca novo artigo ao navegar entre slugs) | [#7](link_do_pr) |
+
+### 🎨 UX (Experiência do Usuário)
+
+| # | Descrição | PR |
+| :--- | :--- | :--- |
+| 10 | Adicionado `inProgress` no `Settings.vue` (desabilita formulário durante requisição) | [#9](link_do_pr) |
+| 11 | Adicionado botão "Voltar ao Topo" (`BackToTop.vue`) | [#11](link_do_pr) |
+
+---
+
+## 🧪 Como Testar
+
+```bash
+# Instalar dependências
+npm install
+
+# Rodar em desenvolvimento
+npm run serve
+
+# Rodar os testes (Playwright)
+npm test
+
+# Rodar o lint e formatação
+npm run lint
+npm run format
+
 ### 📫 Contato
 
 📧 **E-mail:** sergiocruz1200@gmail.com  
