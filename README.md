@@ -55,23 +55,26 @@ Atualmente, estou focado em aprofundar meus conhecimentos em **arquitetura de so
 <table>
   <tr>
     <td width="50%">
+  <h3 align="center">🌐 RealWorld Full Stack</h3>
+  <p align="center">
+    Aplicação full stack (estilo Medium) com Vue 3 no frontend e NestJS no backend.
+    <br>
+    <strong>Stack:</strong> Vue 3 + Pinia + NestJS + Prisma + MySQL
+    <br><br>
+    <a href="https://github.com/sergiocruz120/vue-realworld-example-app" target="_blank">
+      <img src="https://img.shields.io/badge/Frontend-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+    </a>
+    <a href="https://github.com/sergiocruz120/nestjs-realworld-example-app" target="_blank">
+      <img src="https://img.shields.io/badge/Backend-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+    </a>
+  </p>
+</td>
+    <td width="50%">
       <h3 align="center">📋 Sistema de Cadastro Full Stack</h3>
       <p align="center">
         Sistema completo de CRUD para usuários e produtos.
         <br>
         <strong>Stack:</strong> Nest.js (Backend) + Vue.js (Frontend) + MySQL
-        <br><br>
-        <a href="https://github.com/sergiocruz120" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github">
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">✅ Lista de Tarefas (To-Do)</h3>
-      <p align="center">
-        Aplicação responsiva de gerenciamento de tarefas com Vue.js 3.
-        <br>
-        <strong>Stack:</strong> Vue.js 3 (Composition API) + Bootstrap 5 + localStorage
         <br><br>
         <a href="https://github.com/sergiocruz120" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github">
