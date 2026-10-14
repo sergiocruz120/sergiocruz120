@@ -1,189 +1,96 @@
-<h1 align="center"> Olá, eu sou o Sérgio Cruz! 👋 </h1>
+<h1 align="center">Olá, eu sou Sergio Cruz 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack Júnior</strong> | Fortaleza-CE
+  <strong>Desenvolvedor Web Júnior | Vue.js, TypeScript e NestJS</strong><br>
+  Fortaleza, Ceará — em busca da primeira oportunidade profissional em tecnologia
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sérgio-cruz-49aa69227" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
   <a href="mailto:sergiocruz1200@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="E-mail" src="https://img.shields.io/badge/E--mail-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/sergiocruz120">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://www.linkedin.com/in/s%C3%A9rgio-cruz-49aa69227/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
----
+## Sobre mim
 
-### 👨‍💻 Sobre Mim
+Sou formado em **Análise e Desenvolvimento de Sistemas** e desenvolvo aplicações web para consolidar minha experiência prática em frontend e backend.
 
-Desenvolvedor Full Stack com formação em **Análise e Desenvolvimento de Sistemas** e paixão por criar aplicações web completas e responsivas. Tenho experiência prática no desenvolvimento de **APIs RESTful** com Node.js/Nest.js e interfaces dinâmicas com **Vue.js**. 
+Tenho trabalhado principalmente com **Vue.js**, **JavaScript/TypeScript**, **NestJS**, **Prisma** e **MySQL**, criando interfaces componentizadas, APIs REST, operações CRUD, validações e integrações entre frontend e backend.
 
-Atualmente, estou focado em aprofundar meus conhecimentos em **arquitetura de software** e **testes automatizados** para entregar código cada vez mais robusto e escalável.
+Atualmente, estou aprofundando meus conhecimentos em testes automatizados, arquitetura de software e boas práticas de desenvolvimento. Busco uma oportunidade como desenvolvedor júnior na qual eu possa colaborar, aprender com a equipe e evoluir por meio de problemas reais.
 
----
+## Tecnologias
 
-### 🛠️ Minhas Tech Stacks
+### Frontend
 
-**Frontend**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=black)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Backend & Banco de Dados**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Backend e banco de dados
 
-**Ferramentas & Metodologias**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
+### Ferramentas e qualidade
 
-### 🚀 Projetos em Destaque
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 
-<table>
-  <tr>
-    <td width="50%">
-  <h3 align="center">🌐 RealWorld Full Stack</h3>
-  <p align="center">
-    Aplicação full stack (estilo Medium) com Vue 3 no frontend e NestJS no backend.
-    <br>
-    <strong>Stack:</strong> Vue 3 + Pinia + NestJS + Prisma + MySQL
-    <br><br>
-    <a href="https://github.com/sergiocruz120/vue-realworld-example-app" target="_blank">
-      <img src="https://img.shields.io/badge/Frontend-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-    </a>
-    <a href="https://github.com/sergiocruz120/nestjs-realworld-example-app" target="_blank">
-      <img src="https://img.shields.io/badge/Backend-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-    </a>
-  </p>
-</td>
-    <td width="50%">
-      <h3 align="center">📋 Sistema de Cadastro Full Stack</h3>
-      <p align="center">
-        Sistema completo de CRUD para usuários e produtos.
-        <br>
-        <strong>Stack:</strong> Nest.js (Backend) + Vue.js (Frontend) + MySQL
-        <br><br>
-        <a href="https://github.com/sergiocruz120" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+## Projetos próprios em destaque
 
----
+### [Dashboard de Filmes e Séries](https://github.com/sergiocruz120/dashboard-filmes-series)
 
-### 📜 Certificações
-- **Análise e Desenvolvimento de Sistemas** - (Concluido)
-- **Web Moderno com JavaScript, Vue.js, Node.js e MySQL** – 97h (2023)
-- **Algoritmos e Lógica de Programação** – 16h (2022)
-- **Informática Intermediária** – Windows, Linux e Pacote Office (2021)
+Aplicação em Vue 3 para gerenciar filmes e séries, com formulários, filtros combináveis, acompanhamento de episódios e visualização de estatísticas.
 
----
+**Tecnologias:** Vue 3, Pinia, Vue Router, Vuetify, Chart.js, Vite e Vitest.
 
-### 📊 Estatísticas do GitHub
+### [API do Dashboard](https://github.com/sergiocruz120/dashboard-api)
 
-<div align="center">
-  <a href="https://github.com/sergiocruz120">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiocruz120&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocruz120&layout=compact&langs_count=7&theme=github_dark"/>
-  </a>
-</div>
+API REST para cadastro e gerenciamento de filmes, estruturada em módulos e integrada ao banco de dados com Prisma.
 
----
+**Tecnologias:** TypeScript, NestJS, Prisma e MySQL.
 
-# RealWorld Vue 3 — Fork com Melhorias
+### [Lista de Contas](https://github.com/sergiocruz120/lista-de-contas)
 
-> Este repositório é um **fork** do [RealWorld Vue 3](https://github.com/realworld-apps/vue-realworld-example-app), com **10 refatorações e melhorias** implementadas seguindo o fluxo profissional de desenvolvimento (branches, PRs, CI/CD).
+Aplicação responsiva para organização de contas, estruturada por funcionalidades e com separação entre páginas, componentes, serviços, store, composables e cliente HTTP.
 
----
+**Tecnologias:** Vue 3, Vuex, Vue Router, JavaScript e Sass.
 
-## 🎯 Sobre Este Fork
+### [Cadastro de Usuários](https://github.com/sergiocruz120/cadastro-usuarios-nest)
 
-Este fork foi criado para **praticar e demonstrar** habilidades de desenvolvimento frontend com Vue 3, incluindo:
+API REST com operações CRUD de usuários, DTOs para validação e persistência de dados por meio do Prisma.
 
-- Fluxo profissional de Git (branches, commits semânticos, PRs, merges).
-- Uso de CI/CD (GitHub Actions) com checks de formatação, testes E2E e segurança.
-- Identificação, reprodução e correção de bugs.
-- Aplicação de boas práticas (props defaults, `:key`, `try/catch`).
-- Melhorias de UX (feedback visual, prevenção de cliques duplos).
+**Tecnologias:** TypeScript, NestJS, Prisma e MySQL.
 
----
+## Manutenção e evolução de código existente
 
-## 🛠️ Melhorias Implementadas
+Também utilizo projetos open source para praticar leitura, manutenção e evolução de bases de código já existentes:
 
-Todas as melhorias foram implementadas via Pull Requests, seguindo o fluxo profissional. Cada uma tem uma branch, commits semânticos e descrição detalhada.
+- [RealWorld Vue](https://github.com/sergiocruz120/vue-realworld-example-app): correções de bugs, melhorias de UX, tratamento de erros e boas práticas em Vue.
+- [RealWorld NestJS](https://github.com/sergiocruz120/nestjs-realworld-example-app): estudo de uma API com arquitetura e regras de negócio mais próximas de uma aplicação real.
 
-### 🐛 Correções de Bugs
+Esses dois repositórios são **forks**. As alterações que implementei neles estão separadas do código original no histórico do Git.
 
-| # | Descrição | PR |
-| :--- | :--- | :--- |
-| 1 | Removida prop `isPreview` órfã do `VArticlePreview.vue` | [#1](link_do_pr) |
-| 2 | Substituído `<a href="">` por `<router-link>` no `Comment.vue` (evitava recarregamento) | [#4](link_do_pr) |
-| 3 | Corrigido `toggleFollow` no `ArticleActions.vue` (usava `profile.username` em vez de `article.author.username`) | [#5](link_do_pr) |
+## Formação e estudos
 
-### ⚡ Boas Práticas
+- Tecnólogo em **Análise e Desenvolvimento de Sistemas** — Gran Faculdade. Concluído em 6 de agosto de 2025.
+- Web Moderno com JavaScript, Vue.js, Node.js e MySQL — 97 horas, [Cod3r Cursos Online](https://www.udemy.com/user/cod3r-3/) (2023).
+- Algoritmos e Lógica de Programação — 16 horas, [Cod3r Cursos Online](https://www.udemy.com/user/cod3r-3/) (2022).
 
-| # | Descrição | PR |
-| :--- | :--- | :--- |
-| 4 | Uso de `:key="tag"` em vez de `:key="index"` no `TagList.vue` | [#2](link_do_pr) |
-| 5 | Adicionado `default: () => []` na prop `tags` do `TagList.vue` | [#3](link_do_pr) |
-| 6 | Padronizado uso de `RwvListErrors` no `Login.vue` e `Register.vue` | [#10](link_do_pr) |
+## Contato
 
-### 🛡️ Robustez e Performance
-
-| # | Descrição | PR |
-| :--- | :--- | :--- |
-| 7 | Adicionado `try/catch` em 9 actions da `articleStore` (tratamento de erro) | [#8](link_do_pr) |
-| 8 | Corrigido `watch(route)` no `Profile.vue` (evita fetch desnecessário ao trocar de aba) | [#6](link_do_pr) |
-| 9 | Adicionado `watch` no `ArticleEdit.vue` (busca novo artigo ao navegar entre slugs) | [#7](link_do_pr) |
-
-### 🎨 UX (Experiência do Usuário)
-
-| # | Descrição | PR |
-| :--- | :--- | :--- |
-| 10 | Adicionado `inProgress` no `Settings.vue` (desabilita formulário durante requisição) | [#9](link_do_pr) |
-| 11 | Adicionado botão "Voltar ao Topo" (`BackToTop.vue`) | [#11](link_do_pr) |
-
----
-
-## 🧪 Como Testar
-
-```bash
-# Instalar dependências
-npm install
-
-# Rodar em desenvolvimento
-npm run serve
-
-# Rodar os testes (Playwright)
-npm test
-
-# Rodar o lint e formatação
-npm run lint
-npm run format
-
-````
-
-### 📫 Contato
-
-📧 **E-mail:** sergiocruz1200@gmail.com  
-📱 **Telefone:** (71) 98657-0730  
-🌎 **Localização:** Fortaleza-CE, Brasil  
-
----
-
-⭐ *"Transformando linhas de código em soluções que fazem a diferença."*
+- E-mail: [sergiocruz1200@gmail.com](mailto:sergiocruz1200@gmail.com)
+- LinkedIn: [Sergio Cruz](https://www.linkedin.com/in/s%C3%A9rgio-cruz-49aa69227/)
