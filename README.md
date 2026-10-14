@@ -57,23 +57,11 @@ Aplicação em Vue 3 para gerenciar filmes e séries, com formulários, filtros 
 
 **Tecnologias:** Vue 3, Pinia, Vue Router, Vuetify, Chart.js, Vite e Vitest.
 
-### [API do Dashboard](https://github.com/sergiocruz120/dashboard-api)
-
-API REST para cadastro e gerenciamento de filmes, estruturada em módulos e integrada ao banco de dados com Prisma.
-
-**Tecnologias:** TypeScript, NestJS, Prisma e MySQL.
-
 ### [Lista de Contas](https://github.com/sergiocruz120/lista-de-contas)
 
 Aplicação responsiva para organização de contas, estruturada por funcionalidades e com separação entre páginas, componentes, serviços, store, composables e cliente HTTP.
 
 **Tecnologias:** Vue 3, Vuex, Vue Router, JavaScript e Sass.
-
-### [Cadastro de Usuários](https://github.com/sergiocruz120/cadastro-usuarios-nest)
-
-API REST com operações CRUD de usuários, DTOs para validação e persistência de dados por meio do Prisma.
-
-**Tecnologias:** TypeScript, NestJS, Prisma e MySQL.
 
 ## Manutenção e evolução de código existente
 
